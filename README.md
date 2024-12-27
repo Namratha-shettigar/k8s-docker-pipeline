@@ -1,6 +1,3 @@
-# k8s-docker-pipeline
-
-
 # Kubernetes CI/CD Pipeline with Docker and Jenkins 🚀
 
 ## 📜 Overview
